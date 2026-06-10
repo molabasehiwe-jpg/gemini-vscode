@@ -8,3 +8,4 @@ Download the extension [here](https://marketplace.visualstudio.com/items?itemNam
 Specification: <gemini://geminiprotocol.net/docs/specification.gmi>
 
 Specification (HTTP Mirror): <https://geminiprotocol.net/docs/specification.gmi>
+https://gemini协议net/docs/specification.gmihttps://marketplace.visualstudio.com/items?itemName=printfn.gemini-improvedgemini://gemini协议net/docs/specification.gmi
